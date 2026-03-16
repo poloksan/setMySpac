@@ -114,10 +114,10 @@ const contact: ContactItem[] = [
         type: <FaPhone />,
         value: '+91 98765 43210',
     },
-    {
-        type: <MdEmail />,
-        value: 'suresh.pastel@decorhub.com',
-    },
+        {
+            type: <MdEmail />,
+            value: 'suresh.pastel@decorhub.com',
+        },
     {
         type: <FaLocationDot />,
         value: 'Indiranagar, Bangalore',
