@@ -110,7 +110,14 @@ import { FaPhone } from 'react-icons/fa6';
 import { MdEmail } from 'react-icons/md';
 import { FaLocationDot } from 'react-icons/fa6';
 const contact: ContactItem[] = [
-   
+    {
+        type: <FaPhone />,
+        value: '+91 98765 43210',
+    },
+    {
+        type: <MdEmail />,
+        value: 'suresh.pastel@decorhub.com',
+    },
     {
         type: <FaLocationDot />,
         value: 'Indiranagar, Bangalore',
